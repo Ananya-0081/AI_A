@@ -10,5 +10,11 @@
     "name": "Alexa",
     "age": 75,
     "city": "Bulgaria"
+  },
+  {
+    "id": 3,
+    "name": "Alex",
+    "age": 33,
+    "city": "Jaipur"
   }
 ]
